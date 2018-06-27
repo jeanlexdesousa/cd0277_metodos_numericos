@@ -2,6 +2,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - ipywidgets
+  - numpy
   - matplotlib
   - pip:
     - sphinx-gallery
